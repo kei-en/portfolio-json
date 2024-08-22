@@ -1,0 +1,128 @@
+{
+  "props": {
+    "pageProps": {
+      "pageData": {
+        "meta_title": "Karanja J. Njuguna",
+        "meta_description": "My name's Joe, and I'm passionate about modern web development and digital design – welcome to my portfolio!",
+        "meta_image": "/kei-en-logo.png",
+        "name": "Homepage",
+        "theme": "dark",
+        "custom_theme": null,
+        "content": [
+          {
+            "_type": "hero_home",
+            "heading": "I'm Kei eN",
+            "intro": "a web developer and designer with a passion for creating slick digital experiences.",
+            "cta": "Explore my work"
+          },
+          {
+            "_type": "projects",
+            "projects_list": [
+              {
+                "tags": [
+                  { "name": "Design" },
+                  { "name": "UI" },
+                  { "name": "API" },
+                  { "name": "Next.js" },
+                  { "name": "MongoDB" }
+                ],
+                "is_interactive": false,
+                "name": "Chartske",
+                "description": "A project establishing a ranking system of music by Kenyan artists based on popularity by leveraging on data from streaming platforms.",
+                "image": "/kecharts-hero.webp",
+                "image_dimensions": {
+                  "width": 2400,
+                  "aspectRatio": 1.5,
+                  "height": 1600,
+                  "_type": "sanity.imageDimensions"
+                },
+                "slug": "chartske"
+              },
+              {
+                "tags": [
+                  { "name": "Design" },
+                  { "name": "UI" },
+                  { "name": "UX" },
+                  { "name": "React.js" }
+                ],
+                "is_interactive": false,
+                "name": "Muimbaji",
+                "description": "A project aimed at making an artist showcase website, making it a onestop shop for anything related to the artist.",
+                "image": "/muimbaji-hero-image.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 2400,
+                  "aspectRatio": 1.5,
+                  "height": 1600
+                },
+                "slug": "muimbaji"
+              }
+            ]
+          }
+        ]
+      },
+      "pageContent": [
+        {
+          "_type": "hero_home",
+          "heading": "I'm Kei eN",
+          "intro": "a web developer and designer with a passion for creating slick digital experiences.",
+          "cta": "Explore my work"
+        },
+        {
+          "_type": "projects",
+          "projects_list": [
+            {
+              "tags": [
+                { "name": "Design" },
+                { "name": "UI" },
+                { "name": "API" },
+                { "name": "Next.js" },
+                { "name": "MongoDB" }
+              ],
+              "is_interactive": false,
+              "name": "Chartske",
+              "description": "A project establishing a ranking system of music by Kenyan artists based on popularity by leveraging on data from streaming platforms.",
+              "image": "/kecharts-hero.webp",
+              "image_dimensions": {
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600,
+                "_type": "sanity.imageDimensions"
+              },
+              "slug": "chartske"
+            },
+            {
+              "tags": [
+                { "name": "Design" },
+                { "name": "UI" },
+                { "name": "UX" },
+                { "name": "React.js" }
+              ],
+              "is_interactive": false,
+              "name": "Muimbaji",
+              "description": "A project aimed at making an artist showcase website, making it a onestop shop for anything related to the artist.",
+              "image": "/muimbaji-hero-image.webp",
+              "image_dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600
+              },
+              "slug": "muimbaji"
+            }
+          ]
+        }
+      ]
+    },
+    "__N_SSG": true
+  },
+  "page": "/",
+  "query": {},
+  "buildId": "-ug3ENbiETahfD2v66gok",
+  "isFallback": false,
+  "gsp": true,
+  "locale": "en",
+  "locales": ["en"],
+  "defaultLocale": "en",
+  "scriptLoader": []
+}
