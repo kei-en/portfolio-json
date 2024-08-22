@@ -65,22 +65,13 @@
         "intro": "An effort to rank music in Kenya using data from streaming platforms like Spotify and YouTube. Inspired by sites like Billboard 100, it is tailored specifically to Kenyan music, filling a gap in the industry where no similar ranking platform currently exists.",
         "meta_title": "Chartske",
         "tags": [
-          {
-            "name": "Design"
-          },
-          {
-            "name": "UI"
-          },
-          {
-            "name": "API"
-          },
-          {
-            "name": "Next.js"
-          },
-          {
-            "name": "MongoDB"
-          }
+          { "name": "Design" },
+          { "name": "UI" },
+          { "name": "API" },
+          { "name": "Next.js" },
+          { "name": "MongoDB" }
         ],
+        "slug": "chartske",
         "content": [
           {
             "image_dimensions": {
@@ -93,7 +84,7 @@
             "copy_heading": "Logo",
             "link_internal": null,
             "cta_text": null,
-            "image": "/chartske-logo.svg",
+            "image": "/media/chartske-logo.svg",
             "include_cta": "none",
             "copy": "The logo features the 'Macondo Swash Caps' font paired with a dancing figure icon, creating the appearance of dancing letters. A 'KE' superscript, representing Kenya, is also included to complete the design.",
             "link_external": null,
@@ -114,17 +105,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/chartske-home-desktop.webp",
+                "image": "/media/chartske-home-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/chartske-home-tab.webp",
+                "image": "/media/chartske-home-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/chartske-home-mobile.webp",
+                "image": "/media/chartske-home-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -151,17 +142,17 @@
             "image_size": "full",
             "devices": {
               "desktop": {
-                "image": "/chartske-main-2-desktop.webp",
+                "image": "/media/chartske-main-2-desktop.webp",
                 "width": 1024,
                 "height": 968
               },
               "tablet": {
-                "image": "/chartske-main-2-tab.webp",
+                "image": "/media/chartske-main-2-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/chartske-main-2-mobile.webp",
+                "image": "/media/chartske-main-2-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -186,17 +177,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/chartske-explore-desktop.webp",
+                "image": "/media/chartske-explore-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/chartske-explore-tab.webp",
+                "image": "/media/chartske-explore-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/chartske-explore-mobile.webp",
+                "image": "/media/chartske-explore-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -222,17 +213,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/chartske-search-yt-desktop.webp",
+                "image": "/media/chartske-search-yt-desktop.webp",
                 "width": 2722,
                 "height": 1634
               },
               "tablet": {
-                "image": "/chartske-search-yt-tab.webp",
+                "image": "/media/chartske-search-yt-tab.webp",
                 "width": 1544,
                 "height": 1285
               },
               "mobile": {
-                "image": "/chartske-search-yt-mobile.webp",
+                "image": "/media/chartske-search-yt-mobile.webp",
                 "width": 1056,
                 "height": 958
               },
@@ -258,17 +249,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/chartske-search-spoti-desktop.webp",
+                "image": "/media/chartske-search-spoti-desktop.webp",
                 "width": 3106,
                 "height": 1354
               },
               "tablet": {
-                "image": "/chartske-search-spoti-tab.webp",
+                "image": "/media/chartske-search-spoti-tab.webp",
                 "width": 1637,
                 "height": 1173
               },
               "mobile": {
-                "image": "/chartske-search-spoti-mobile.webp",
+                "image": "/media/chartske-search-spoti-mobile.webp",
                 "width": 1025,
                 "height": 952
               },
@@ -392,19 +383,12 @@
         "intro": "The goal of this project was to create a comprehensive website for an artist showcase. The site serves as the primary resource for all information about the artist, featuring integrated audio and video players, as well as an online store where fans can purchase products. It centralizes all relevant information about the artist in one convenient location.",
         "meta_title": "Muimbaji",
         "tags": [
-          {
-            "name": "Design"
-          },
-          {
-            "name": "UI"
-          },
-          {
-            "name": "UX"
-          },
-          {
-            "name": "Next.js"
-          }
+          { "name": "Design" },
+          { "name": "UI" },
+          { "name": "UX" },
+          { "name": "React.js" }
         ],
+        "slug": "muimbaji",
         "content": [
           {
             "include_copy": false,
@@ -422,7 +406,7 @@
               "mobile": {
                 "image": null
               },
-              "image": "/muimbaji-logo.png",
+              "image": "/media/muimbaji-logo.png",
               "width": 150,
               "height": 150
             },
@@ -446,17 +430,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/homepage-desktop.webp",
+                "image": "/media/homepage-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/homepage-tab.webp",
+                "image": "/media/homepage-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/homepage-mobile.webp",
+                "image": "/media/homepage-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -491,7 +475,7 @@
               "mobile": {
                 "image": null
               },
-              "image": "/hompage-desktop-2.webp",
+              "image": "/media/hompage-desktop-2.webp",
               "width": 2400,
               "height": 1600
             },
@@ -514,17 +498,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/musicpage-desktop.webp",
+                "image": "/media/musicpage-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/musicpage-tab.webp",
+                "image": "/media/musicpage-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/musicpage-mobile.webp",
+                "image": "/media/musicpage-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -550,17 +534,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/controlbar-desktop.webp",
+                "image": "/media/controlbar-desktop.webp",
                 "width": 1080,
                 "height": 200
               },
               "tablet": {
-                "image": "/controlbar-tab.webp",
+                "image": "/media/controlbar-tab.webp",
                 "width": 810,
                 "height": 200
               },
               "mobile": {
-                "image": "/controlbar-mobile.webp",
+                "image": "/media/controlbar-mobile.webp",
                 "width": 375,
                 "height": 150
               },
@@ -586,17 +570,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/videopage-desktop.webp",
+                "image": "/media/videopage-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/videopage-tab.webp",
+                "image": "/media/videopage-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/videopage-mobile.webp",
+                "image": "/media/videopage-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -622,17 +606,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/imagepage-desktop.webp",
+                "image": "/media/imagepage-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/imagepage-tab.webp",
+                "image": "/media/imagepage-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/imagepage-mobile.webp",
+                "image": "/media/imagepage-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -658,17 +642,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/shoppage-desktop.webp",
+                "image": "/media/shoppage-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/shoppage-tab.webp",
+                "image": "/media/shoppage-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/shoppage-mobile.webp",
+                "image": "/media/shoppage-mobile.webp",
                 "width": 375,
                 "height": 612
               },
@@ -694,17 +678,17 @@
             "_type": "project_image",
             "devices": {
               "desktop": {
-                "image": "/payment-desktop.webp",
+                "image": "/media/payment-desktop.webp",
                 "width": 1024,
                 "height": 568
               },
               "tablet": {
-                "image": "/payment-tab.webp",
+                "image": "/media/payment-tab.webp",
                 "width": 810,
                 "height": 980
               },
               "mobile": {
-                "image": "/payment-mobile.webp",
+                "image": "/media/payment-mobile.webp",
                 "width": 375,
                 "height": 612
               },
