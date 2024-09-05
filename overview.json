@@ -95,8 +95,8 @@
               "tags": [
                 { "name": "Design" },
                 { "name": "UI" },
-                { "name": "UX" },
-                { "name": "React.js" }
+                { "name": "React.js" },
+                { "name": "PostgreSQL"}
               ],
               "is_interactive": false,
               "name": "Muimbaji",
