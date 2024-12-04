@@ -20,6 +20,26 @@
             "projects_list": [
               {
                 "tags": [
+                  { "name": "Re-Design" },
+                  { "name": "UI" },
+                  { "name": "CSS" },
+                  { "name": "JavaScript" },
+                  { "name": "Wordpress" }
+                ],
+                "is_interactive": false,
+                "name": "Bricolage Human Capital",
+                "description": "Redesign of the website to better serve the services provided by Bricolage Human Capital.",
+                "image": "/bhc/bhc-hero.webp",
+                "image_dimensions": {
+                  "width": 2400,
+                  "aspectRatio": 1.5,
+                  "height": 1600,
+                  "_type": "sanity.imageDimensions"
+                },
+                "slug": "bricolage-human-capital"
+              },
+              {
+                "tags": [
                   { "name": "Design" },
                   { "name": "UI" },
                   { "name": "API" },
@@ -96,7 +116,7 @@
                 { "name": "Design" },
                 { "name": "UI" },
                 { "name": "React.js" },
-                { "name": "PostgreSQL"}
+                { "name": "PostgreSQL" }
               ],
               "is_interactive": false,
               "name": "Muimbaji",

@@ -376,7 +376,7 @@
           }
         },
         "meta_description": "A project aimed at creating a ranking of music by Kenyan artists based on popularity by leveraging on data from streaming platforms.",
-        "meta_image": "/chartske/kecharts-hero.webp",
+        "meta_image": "/media/chartske/kecharts-hero.webp",
         "meta_title": "Chartske",
         "title": "Chartske",
         "intro": "An effort to rank music in Kenya using data from streaming platforms like Spotify and YouTube. Inspired by sites like Billboard 100, it is tailored specifically to Kenyan music, filling a gap in the industry where no similar ranking platform currently exists.",
