@@ -50,7 +50,7 @@
                 "is_interactive": false,
                 "name": "Websurfer",
                 "description": "Websurfer was created to bring back the joy of classic internet browsing, letting you stumble upon unique websites as people used to do in the early days of online exploration. With every visit, you’ll be presented with truly random websites, each inviting you to explore.",
-                "image": "/media/websurfer-hero.webp",
+                "image": "https://kei-en.github.io/portfolio-json/media/websurfer-hero.webp",
                 "image_dimensions": {
                   "width": 2400,
                   "aspectRatio": 1.5,
@@ -71,7 +71,7 @@
                 "is_interactive": false,
                 "name": "Chartske",
                 "description": "A project establishing a ranking system of music by Kenyan artists based on popularity by leveraging on data from streaming platforms.",
-                "image": "/kecharts-hero.webp",
+                "image": "https://kei-en.github.io/portfolio-json/media/kecharts-hero.webp",
                 "image_dimensions": {
                   "width": 2400,
                   "aspectRatio": 1.5,
@@ -127,7 +127,7 @@
               "is_interactive": false,
               "name": "Websurfer",
               "description": "Websurfer was created to bring back the joy of classic internet browsing, letting you stumble upon unique websites as people used to do in the early days of online exploration. With every visit, you’ll be presented with truly random websites, each inviting you to explore.",
-              "image": "/media/websurfer-hero.webp",
+              "image": "https://kei-en.github.io/portfolio-json/media/websurfer-hero.webp",
               "image_dimensions": {
                 "width": 2400,
                 "aspectRatio": 1.5,
@@ -148,7 +148,7 @@
               "is_interactive": false,
               "name": "Chartske",
               "description": "A project establishing a ranking system of music by Kenyan artists based on popularity by leveraging on data from streaming platforms.",
-              "image": "/media/kecharts-hero.webp",
+              "image": "https://kei-en.github.io/portfolio-json/media/kecharts-hero.webp",
               "image_dimensions": {
                 "width": 2400,
                 "aspectRatio": 1.5,
