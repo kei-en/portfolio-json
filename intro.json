@@ -3,7 +3,7 @@
     "pageProps": {
       "pageData": {
         "meta_title": "Karanja J. Njuguna",
-        "meta_description": "My name's Joe, and I'm passionate about modern web development and digital design – welcome to my portfolio!",
+        "meta_description": "My name's Karanja, and I'm passionate about modern web development and digital design – welcome to my portfolio!",
         "meta_image": "/kei-en-logo.png",
         "name": "Homepage",
         "theme": "dark",
@@ -11,7 +11,7 @@
         "content": [
           {
             "_type": "hero_home",
-            "heading": "I'm Kei eN",
+            "heading": "I'm Karanja",
             "intro": "a web developer and designer with a passion for creating slick digital experiences.",
             "cta": "Explore my work"
           },
@@ -36,7 +36,29 @@
                   "height": 1600,
                   "_type": "sanity.imageDimensions"
                 },
-                "slug": "bricolage-human-capital"
+                "slug": "bricolage-human-capital",
+                "link": "https://bricolagehumancapital.co.ke"
+              },
+              {
+                "tags": [
+                    { "name": "Design" },
+                    { "name": "UI" },
+                    { "name": "Next.js" },
+                    { "name": "TailwindCSS" },
+                    { "name": "Framer Motion" }
+                ],
+                "is_interactive": false,
+                "name": "Websurfer",
+                "description": "Websurfer was created to bring back the joy of classic internet browsing, letting you stumble upon unique websites as people used to do in the early days of online exploration. With every visit, you’ll be presented with truly random websites, each inviting you to explore.",
+                "image": "/media/websurfer-hero.webp",
+                "image_dimensions": {
+                  "width": 2400,
+                  "aspectRatio": 1.5,
+                  "height": 1600,
+                  "_type": "sanity.imageDimensions"
+                },
+                "slug": "chartske",
+                "link": "https://websurfer.vercel.app"
               },
               {
                 "tags": [
@@ -56,26 +78,8 @@
                   "height": 1600,
                   "_type": "sanity.imageDimensions"
                 },
-                "slug": "chartske"
-              },
-              {
-                "tags": [
-                  { "name": "Design" },
-                  { "name": "UI" },
-                  { "name": "UX" },
-                  { "name": "React.js" }
-                ],
-                "is_interactive": false,
-                "name": "Muimbaji",
-                "description": "A project aimed at making an artist showcase website, making it a onestop shop for anything related to the artist.",
-                "image": "/muimbaji-hero-image.webp",
-                "image_dimensions": {
-                  "_type": "sanity.imageDimensions",
-                  "width": 2400,
-                  "aspectRatio": 1.5,
-                  "height": 1600
-                },
-                "slug": "muimbaji"
+                "slug": "chartske",
+                "link": "https://kecharts.vercel.app"
               }
             ]
           }
@@ -84,13 +88,55 @@
       "pageContent": [
         {
           "_type": "hero_home",
-          "heading": "I'm Kei eN",
+          "heading": "I'm Karanja",
           "intro": "a web developer and designer with a passion for creating slick digital experiences.",
           "cta": "Explore my work"
         },
         {
           "_type": "projects",
           "projects_list": [
+            {
+              "tags": [
+                  { "name": "Re-Design" },
+                  { "name": "UI" },
+                  { "name": "CSS" },
+                  { "name": "JavaScript" },
+                  { "name": "Wordpress" }
+              ],
+              "is_interactive": false,
+              "name": "Bricolage Human Capital",
+              "description": "A re-design of the website to better serve and showcase the services provided by Bricolage Human Capital",
+              "image": "/media/bhc-hero.png",
+              "image_dimensions": {
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600,
+                "_type": "sanity.imageDimensions"
+              },
+              "slug": "bricolage-human-capital",
+              "link": "https://bricolagehumancapital.co.ke"
+            },
+            {
+              "tags": [
+                  { "name": "Design" },
+                  { "name": "UI" },
+                  { "name": "Next.js" },
+                  { "name": "TailwindCSS" },
+                  { "name": "Framer Motion" }
+              ],
+              "is_interactive": false,
+              "name": "Websurfer",
+              "description": "Websurfer was created to bring back the joy of classic internet browsing, letting you stumble upon unique websites as people used to do in the early days of online exploration. With every visit, you’ll be presented with truly random websites, each inviting you to explore.",
+              "image": "/media/websurfer-hero.webp",
+              "image_dimensions": {
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600,
+                "_type": "sanity.imageDimensions"
+              },
+              "slug": "chartske",
+              "link": "https://websurfer.vercel.app"
+            },
             {
               "tags": [
                 { "name": "Design" },
@@ -109,26 +155,8 @@
                 "height": 1600,
                 "_type": "sanity.imageDimensions"
               },
-              "slug": "chartske"
-            },
-            {
-              "tags": [
-                { "name": "Design" },
-                { "name": "UI" },
-                { "name": "React.js" },
-                { "name": "PostgreSQL" }
-              ],
-              "is_interactive": false,
-              "name": "Muimbaji",
-              "description": "A project aimed at making an artist showcase website, making it a onestop shop for anything related to the artist.",
-              "image": "/media/muimbaji-hero-image.webp",
-              "image_dimensions": {
-                "_type": "sanity.imageDimensions",
-                "width": 2400,
-                "aspectRatio": 1.5,
-                "height": 1600
-              },
-              "slug": "muimbaji"
+              "slug": "chartske",
+              "link": "https://kecharts.vercel.app"
             }
           ]
         }
