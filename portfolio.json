@@ -1,0 +1,453 @@
+{
+    "project": "Design projects",
+    "data": {
+        "intro": "'This is a showcase of the projects I’ve been a part of, including insightful descriptions that explain what was accomplished and the processes that shaped the outcomes.",
+        "tags": [
+            {
+                "name": "Design"
+            },
+            {
+                "name": "Creativity"
+            },
+            {
+                "name": "CMS"
+            }
+        ],
+        "custom_theme": {
+            "background": {
+                "hex": "#F7F9FF"
+            },
+            "text": {
+                "hex": "#000"
+            }
+        }
+    },
+    "content": [
+        {
+            "image_dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 150,
+                "aspectRatio": 1.3333333333333333,
+                "height": 150
+            },
+            "_type": "project_image_text",
+            "copy_heading": "Bricolage Human Capital",
+            "link_internal": null,
+            "cta_text": null,
+            "image": "/media/bricolage-hero.webp",
+            "include_cta": "none",
+            "copy": "This initiative focused on revamping BHC's website to ensure it reflects the company's identity more accurately while also establishing an accessible point of contact for service inquiries.",
+            "link_external": null,
+            "link_internal_type": null,
+            "image_alt": "chartske website",
+            "caption_position": null,
+            "caption": null,
+            "image_is_decorative": true,
+            "include_caption": false,
+            "link_file": null,
+            "copy_position": "left"
+        },
+        {
+            "_type": "project_process_work",
+            "items": [
+                {
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "media/bhclogo.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "heading": "Initial Setup",
+                    "copy": "The process began with a thorough examination of the client's current setup, leading to the conclusion that a complete transformation was essential. The new website would be developed using WordPress, with MySQL serving as the database storage solution.",
+                    "link_file": null,
+                    "image_is_decorative": true,
+                    "image_alt": null
+                },
+                {
+                    "copy": "After the initial set-up, I completed some wireframes for an early presentation, to show the flow and functionality.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/bhc-wireframing.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Wireframing",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "Since the website was built on WordPress, there was little coding necessary to bring the design to life. The bulk of the work involved utilizing drag-and-drop tools, finding the right images, customizing media elements to fit the overall theme, and ensuring everything was harmonized for a seamless experience across the site.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/bhc-design.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Design & Implementation",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "After the client expressed their satisfaction with the design, the following step was to weave their content into it. The nature of the content guided the selection of graphics, necessitating some tweaks to match the company's color palette. Most graphics could be sourced online, with only a few needing to be crafted from scratch.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/bhc-customize.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Content Integration",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                }
+            ]
+        },
+        {
+            "image_dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 150,
+                "aspectRatio": 1.3333333333333333,
+                "height": 150
+            },
+            "_type": "project_image_text",
+            "copy_heading": "Chartske",
+            "link_internal": null,
+            "cta_text": null,
+            "image": "/media/chartske-hero.webp",
+            "include_cta": "none",
+            "copy": "This endeavor seeks to create a popularity-based ranking of music from Kenyan artists, harnessing insights from various streaming platforms.",
+            "link_external": null,
+            "link_internal_type": null,
+            "image_alt": "chartske website",
+            "caption_position": null,
+            "caption": null,
+            "image_is_decorative": true,
+            "include_caption": false,
+            "link_file": null,
+            "copy_position": "left"
+        },
+        {
+            "_type": "project_process_work",
+            "items": [
+                {
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "media/chartske-logo-creation.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "heading": "Initial Branding",
+                    "copy": "Chartske's branding journey began with a different logo and name, evolving through various versions until we landed on one that truly captured our essence. The chosen name reflects our primary vision and offers room for expansion. The logo combines the playful 'Macondo Swash Caps' font with a dynamic dancing figure icon, creating a sense of movement. Additionally, a 'KE' superscript, representing Kenya, rounds out the design beautifully.",
+                    "link_file": null,
+                    "image_is_decorative": true,
+                    "image_alt": null
+                },
+                {
+                    "copy": "From the very beginning, this project has been incredibly dynamic. The concept was the sole concrete element as we worked through branding and functionality. We initially aimed to extract data from numerous streaming platforms, but after thorough evaluation, we chose to concentrate on YouTube and Spotify. These platforms stood out for their rich public data on music and their substantial listener base. Although both had public APIs available, we found ourselves needing to scrape Spotify because their API lacked play count data.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/chartske-services.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Technologies and services",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "We found the design element to be the least challenging part of the project, largely because we could draw from various existing services for inspiration. The bulk of our efforts went into experimenting and effectively combining data from both services to achieve accurate results. Moreover, we needed to define the benchmarks for recommending songs that qualify for specific awards.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/chartske-main-2-desktop.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Fleshing it out",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "The search feature integrated into the platform allows users to uncover the performance of songs and artists that might not be highlighted in the rankings. It works seamlessly with the Spotify and YouTube APIs, enabling users to explore music directly. The results provide crucial insights, showcasing the follower count of artists and the total views or plays that individual songs have received.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/chartske-search.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Search functionality",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "Evidently, the project is still a work in progress. We plan to incorporate more genres and are actively exploring improved methods for discovering music. Currently, much of this process relies on manual efforts.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/chartske-explore-desktop.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Next steps",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                }
+            ]
+        },
+        {
+            "image_dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 150,
+                "aspectRatio": 1.3333333333333333,
+                "height": 150
+            },
+            "_type": "project_image_text",
+            "copy_heading": "Websurfer",
+            "link_internal": null,
+            "cta_text": null,
+            "image": "/media/websurf-hero.webp",
+            "include_cta": "none",
+            "copy": "A creative hub for discovering captivating, eccentric, and hopefully informative websites, offering a delightful escape from the mundane doomscrolling that fills our daily internet routines.",
+            "link_external": null,
+            "link_internal_type": null,
+            "image_alt": "chartske website",
+            "caption_position": null,
+            "caption": null,
+            "image_is_decorative": true,
+            "include_caption": false,
+            "link_file": null,
+            "copy_position": "left"
+        },
+        {
+            "_type": "project_process_work",
+            "items": [
+                {
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "media/websurf-collection.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "heading": "How it started",
+                    "copy": "I came up with the concept for this website after discovering a few fascinating sites, some of which I had completely forgotten about. While bookmarking them in my browser was an option, it didn’t provide a fast way to access them when I wanted to. This experience also sparked my curiosity about what other hidden gems people might have found that I was unaware of.",
+                    "link_file": null,
+                    "image_is_decorative": true,
+                    "image_alt": null
+                },
+                {
+                    "copy": "The project originally went by the name surfbored (with 'bored' crossed out), reflecting my growing frustration with the monotony of many online platforms. I aimed to highlight the vastness of the internet and encourage connections among fellow explorers who were eager to discover more.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/websurf-logos.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Conception & Birth",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "Many aspects of this project were quite clear-cut. A significant emphasis was placed on discovering a secure approach to integrate other websites into the platform while protecting against malicious actors. After some collaborative discussions, the name 'websurfer' was conceived, aiming to highlight the excitement of the journey rather than a sense of tedium.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/websurf-showcase.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "Early life",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                },
+                {
+                    "copy": "The logo was inspired by the concept of surfing, while the blue color scheme reflects the vastness of the ocean. My goal was to blend various ideas into the design, making it stand out from typical websites. As a result, we have the unique look you see today. Currently, there are over 40 different websites across five categories, with more categories on the horizon. Users can submit their sites via a form, and we also plan to introduce user accounts for additional features like favoriting websites, creating collections, and engaging with fellow enthusiasts.",
+                    "link_file": null,
+                    "link_internal_type": null,
+                    "link_internal": null,
+                    "image": "/media/websurf-showcase-2.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 1600,
+                        "aspectRatio": 1.7777777777777777,
+                        "height": 900
+                    },
+                    "image_alt": null,
+                    "heading": "How it's going",
+                    "image_is_decorative": true,
+                    "include_cta": "none",
+                    "cta_text": null,
+                    "link_external": null
+                }
+            ]
+        },
+        {
+            "copy_heading": "More Designs",
+            "copy": "A collection of other designs that I've worked on over time",
+            "columns": 3,
+            "image_size": "large",
+            "items": [
+                {
+                    "image_alt": null,
+                    "include_name": false,
+                    "name": null,
+                    "include_copy": true,
+                    "copy": "A music streaming app called Tunes.",
+                    "image": "media/tunes-showcase.webp",
+                    "image_dimensions": {
+                        "_type": "sanity.imageDimensions",
+                        "width": 800,
+                        "aspectRatio": 1.3333333333333333,
+                        "height": 600
+                    },
+                    "image_is_decorative": true
+                },
+                {
+                    "include_copy": true,
+                    "copy": "A portfolio website showcasing an individual's work and contact information.",
+                    "image": "media/terryanne-showcase.webp",
+                    "image_dimensions": {
+                        "aspectRatio": 1.3333333333333333,
+                        "height": 600,
+                        "_type": "sanity.imageDimensions",
+                        "width": 800
+                    },
+                    "image_is_decorative": true,
+                    "image_alt": null,
+                    "include_name": false,
+                    "name": null
+                }
+            ],
+            "_type": "project_image_grid"
+        },
+        {
+            "copy": null,
+            "include_cta": "none",
+            "include_caption": true,
+            "copy_position": "below",
+            "link_internal_type": null,
+            "link_internal": null,
+            "_type": "project_video",
+            "video": "1051900390?h=fe9cb4ec13",
+            "caption": "A video run-through of Fishbowl, an artist showcase webapp.",
+            "video_size": "medium",
+            "copy_heading": null,
+            "cta_text": null,
+            "link_file": null,
+            "include_copy": false,
+            "link_external": null
+        },
+        {
+            "copy": "A design idea for a painting and construction company",
+            "image_is_decorative": true,
+            "image_alt": null,
+            "link_external": "https://www.figma.com/proto/dI4WdFLzOvmPc7bTMjb5uB/Turner-painting?node-id=2622-2&p=f&t=s89cQsdoNFOaEZZG-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+            "copy_position": "below",
+            "_type": "project_image",
+            "link_internal": null,
+            "link_internal_type": null,
+            "devices": {
+                "desktop": {
+                    "image": null
+                },
+                "tablet": {
+                    "image": null
+                },
+                "mobile": {
+                    "image": null
+                },
+                "image": null
+            },
+            "copy_heading": "Turner Painting & Construction",
+            "include_cta": "external",
+            "link_file": null,
+            "image_size": "small",
+            "include_caption": false,
+            "include_copy": true,
+            "cta_text": "Design presentation",
+            "caption": null,
+            "image_dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600
+            }
+        }
+    ]
+}
