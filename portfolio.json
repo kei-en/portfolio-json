@@ -414,6 +414,42 @@
             "link_external": null
         },
         {
+            "copy": "Funeral program document designfor my grandma",
+            "image_is_decorative": true,
+            "image_alt": null,
+            "link_external": "https://drive.google.com/file/d/12kqoT38VKKAB0SP_7P04TBRHPfoC4m4C/view?usp=sharing",
+            "copy_position": "below",
+            "_type": "project_image",
+            "link_internal": null,
+            "link_internal_type": null,
+            "devices": {
+                "desktop": {
+                    "image": null
+                },
+                "tablet": {
+                    "image": null
+                },
+                "mobile": {
+                    "image": null
+                },
+                "image": null
+            },
+            "copy_heading": "Event Program Design",
+            "include_cta": "external",
+            "link_file": null,
+            "image_size": "small",
+            "include_caption": false,
+            "include_copy": true,
+            "cta_text": "Design presentation",
+            "caption": null,
+            "image_dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600
+            }
+        }
+        {
             "copy": "A design idea for a painting and construction company",
             "image_is_decorative": true,
             "image_alt": null,
