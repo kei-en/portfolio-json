@@ -199,6 +199,48 @@
               },
               "slug": "chartske",
               "link": "https://kecharts.vercel.app"
+            },
+            {
+              "tags": [
+                { "name": "UI" },
+                { "name": "HTML" },
+                { "name": "CSS" },
+                { "name": "JavaScript" },
+                { "name": "Wordpress" }
+              ],
+              "is_interactive": false,
+              "name": "Loyar",
+              "description": "A theme template for a modern law firm, designed to showcase services and expertise effectively.",
+              "image": "https://kei-en.github.io/portfolio-json/media/loyar-hero.png",
+              "image_dimensions": {
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600,
+                "_type": "sanity.imageDimensions"
+              },
+              "slug": "loyar",
+              "link": "https://similar.42web.io"
+            },
+            {
+              "tags": [
+                { "name": "UI" },
+                { "name": "HTML" },
+                { "name": "CSS" },
+                { "name": "JavaScript" },
+                { "name": "Wordpress" }
+              ],
+              "is_interactive": false,
+              "name": "Similar Studios Africa",
+              "description": "A theme template for a film production company, designed to highlight their portfolio and services.",
+              "image": "https://kei-en.github.io/portfolio-json/media/ssm-hero.png",
+              "image_dimensions": {
+                "width": 2400,
+                "aspectRatio": 1.5,
+                "height": 1600,
+                "_type": "sanity.imageDimensions"
+              },
+              "slug": "loyar",
+              "link": "https://similar.42web.io/film"
             }
           ]
         }
