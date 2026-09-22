@@ -57,7 +57,7 @@
                   "height": 1600,
                   "_type": "sanity.imageDimensions"
                 },
-                "slug": "chartske",
+                "slug": "websurfer",
                 "link": "https://websurfer.vercel.app"
               },
               {
@@ -120,7 +120,7 @@
                   "height": 1600,
                   "_type": "sanity.imageDimensions"
                 },
-                "slug": "loyar",
+                "slug": "similar-studios-africa",
                 "link": "https://similar.42web.io/film"
               }
             ]
@@ -176,7 +176,7 @@
                 "height": 1600,
                 "_type": "sanity.imageDimensions"
               },
-              "slug": "chartske",
+              "slug": "websurfer",
               "link": "https://websurfer.vercel.app"
             },
             {
@@ -239,7 +239,7 @@
                 "height": 1600,
                 "_type": "sanity.imageDimensions"
               },
-              "slug": "loyar",
+              "slug": "similar-studios-africa",
               "link": "https://similar.42web.io/film"
             }
           ]
