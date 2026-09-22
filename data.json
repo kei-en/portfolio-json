@@ -35,7 +35,7 @@
             "hex": "#000000"
           }
         },
-        "meta_description": "Redesign of the website to better serve the services provided by Bricolage Human Capital.",
+        "meta_description": "Redesigning how HR professionals learn, grow and prepare for what's next.",
         "meta_image": "/bhc/bhc-hero.webp",
         "meta_title": "Bricolage Human Capital",
         "title": "Bricolage Human Capital",
@@ -43,257 +43,118 @@
         "slug": "bricolage-human-capital",
         "content": [
           {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Landing Page",
-            "copy": "The landing page consists of relevant information introducing the company and its services.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
+            "_type": "project_text",
+            "copy": "HR company offering learning modules, resources, and tips for HR professionals across Kenya",
+            "cta_text": null,
+            "heading": "Client",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_text",
+            "copy": "The original site didn't reflect the company's identity or values, and gave visitors no real way to engage, no clear path to apply for programs, ask questions, or explore what was on offer beyond a static list of services.",
+            "cta_text": null,
+            "heading": "The problem",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_process_work",
+            "items": [
+              {
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null,
+                "link_internal_type": null,
+                "link_internal": null,
                 "image": "/media/bhc/bhc-header.webp",
-                "width": 1024,
-                "height": 568
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "heading": null,
+                "copy": "Rebuilt the visual identity around the company's brand colours (orange and blue) and sourced/created imagery featuring Black professionals, reflecting the company's Kenyan audience and market",
+                "link_file": null,
+                "image_is_decorative": true,
+                "image_alt": null
               },
-              "tablet": {
-                "image": "/media/bhc/bhc-header-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/bhc/bhc-header-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of BHC website main header.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "How can we help you",
-            "copy": null,
-            "_type": "project_image",
-            "image_size": "full",
-            "devices": {
-              "desktop": {
-                "image": "/media/bhc/bhc-how-can-we-help-you.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/bhc/bhc-how-can-we-help-you-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/bhc/bhc-how-can-we-help-you-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of BHC how can we help you page header.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "Item",
-            "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
+              {
+                "copy": "Designed and built new site sections: a program application flow, an inquiries/contact page, a blog, a resources hub, and a page linking out to HR-related events and meetings",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
                 "image": "/media/bhc/bhc-coaching-mentoring.webp",
-                "width": 1024,
-                "height": 568
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
               },
-              "tablet": {
-                "image": "/media/bhc/bhc-coaching-mentoring-tab.webp",
-                "width": 810,
-                "height": 980
+              {
+                "copy": "Worked directly with the founder throughout, translating their vision and provided content into finished design and layout in real time, rather than working from a fixed brief",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
+                "image": "/media/bhc-design.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
               },
-              "mobile": {
-                "image": "/media/bhc/bhc-coaching-mentoring-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Coaching and mentoring page from BHC website.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "Upcoming workshops, webinars & events",
-            "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/bhc/bhc-events.webp",
-                "width": 2722,
-                "height": 1634
-              },
-              "tablet": {
-                "image": "/media/bhc/bhc-events-tab.webp",
-                "width": 1544,
-                "height": 1285
-              },
-              "mobile": {
-                "image": "/media/bhc/bhc-events-mobile.webp",
-                "width": 1056,
-                "height": 958
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of BHC events page",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "full",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "Contact",
-            "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
+              {
+                "copy": "After the client expressed their satisfaction with the design, the following step was to weave their content into it. The nature of the content guided the selection of graphics, necessitating some tweaks to match the company's color palette. Most graphics could be sourced online, with only a few needing to be crafted from scratch.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
                 "image": "/media/bhc/bhc-contact.webp",
-                "width": 3106,
-                "height": 1354
-              },
-              "tablet": {
-                "image": "/media/bhc/bhc-contact-tab.webp",
-                "width": 1637,
-                "height": 1173
-              },
-              "mobile": {
-                "image": "/media/bhc/bhc-contact-mobile.webp",
-                "width": 1025,
-                "height": 952
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of BHC contact us interface",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "full",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": "Content Integration",
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
+              }
+            ]
           },
           {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "Contact",
-            "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/bhc/bhc-footer.webp",
-                "width": 3106,
-                "height": 1354
-              },
-              "tablet": {
-                "image": "/media/bhc/bhc-footer-tab.webp",
-                "width": 1637,
-                "height": 1173
-              },
-              "mobile": {
-                "image": "/media/bhc/bhc-footer-mobile.webp",
-                "width": 1025,
-                "height": 952
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of BHC website footer",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "full",
-            "link_file": null,
-            "link_internal": null,
+            "_type": "project_text",
+            "copy": "A site that visually and functionally matched the founder's vision for the brand, with new pathways for prospective clients to engage, apply, and learn more. The founder specifically praised the ability to take a loose brief and run with it independently:",
             "cta_text": null,
-            "link_internal_type": null,
+            "heading": "Outcome",
+            "include_cta": "none",
             "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "copy": "Website",
-            "image_is_decorative": true,
-            "image_alt": null,
-            "link_external": "https://bricolagehumancapital.co.ke",
-            "copy_position": "below",
-            "_type": "project_image",
-            "link_internal": null,
-            "link_internal_type": null,
-            "devices": {
-              "desktop": {
-                "image": null
-              },
-              "tablet": {
-                "image": null
-              },
-              "mobile": {
-                "image": null
-              },
-              "image": null
-            },
-            "image": null,
-            "copy_heading": "View Project",
-            "include_cta": "external",
             "link_file": null,
-            "image_size": "small",
-            "include_caption": false,
-            "include_copy": true,
-            "cta_text": "website",
-            "caption": null,
-            "image_dimensions": {
-              "_type": "sanity.imageDimensions",
-              "width": 2400,
-              "aspectRatio": 1.5,
-              "height": 1600
-            }
+            "link_internal": null,
+            "link_internal_type": null
           }
         ]
       }
