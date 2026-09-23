@@ -20,11 +20,21 @@
             "projects_list": [
               {
                 "tags": [
-                  { "name": "Re-Design" },
-                  { "name": "UI" },
-                  { "name": "CSS" },
-                  { "name": "JavaScript" },
-                  { "name": "Wordpress" }
+                  {
+                    "name": "Re-Design"
+                  },
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "CSS"
+                  },
+                  {
+                    "name": "JavaScript"
+                  },
+                  {
+                    "name": "Wordpress"
+                  }
                 ],
                 "is_interactive": false,
                 "name": "Bricolage Human Capital",
@@ -41,11 +51,21 @@
               },
               {
                 "tags": [
-                    { "name": "Design" },
-                    { "name": "UI" },
-                    { "name": "Next.js" },
-                    { "name": "TailwindCSS" },
-                    { "name": "Framer Motion" }
+                  {
+                    "name": "Design"
+                  },
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "Next.js"
+                  },
+                  {
+                    "name": "TailwindCSS"
+                  },
+                  {
+                    "name": "Framer Motion"
+                  }
                 ],
                 "is_interactive": false,
                 "name": "Websurfer",
@@ -62,11 +82,21 @@
               },
               {
                 "tags": [
-                  { "name": "Design" },
-                  { "name": "UI" },
-                  { "name": "API" },
-                  { "name": "Next.js" },
-                  { "name": "MongoDB" }
+                  {
+                    "name": "Design"
+                  },
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "API"
+                  },
+                  {
+                    "name": "Next.js"
+                  },
+                  {
+                    "name": "MongoDB"
+                  }
                 ],
                 "is_interactive": false,
                 "name": "Chartske",
@@ -83,11 +113,21 @@
               },
               {
                 "tags": [
-                  { "name": "UI" },
-                  { "name": "HTML" },
-                  { "name": "CSS" },
-                  { "name": "JavaScript" },
-                  { "name": "Wordpress" }
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "HTML"
+                  },
+                  {
+                    "name": "CSS"
+                  },
+                  {
+                    "name": "JavaScript"
+                  },
+                  {
+                    "name": "Wordpress"
+                  }
                 ],
                 "is_interactive": false,
                 "name": "Loyar",
@@ -104,11 +144,21 @@
               },
               {
                 "tags": [
-                  { "name": "UI" },
-                  { "name": "HTML" },
-                  { "name": "CSS" },
-                  { "name": "JavaScript" },
-                  { "name": "Wordpress" }
+                  {
+                    "name": "UI"
+                  },
+                  {
+                    "name": "HTML"
+                  },
+                  {
+                    "name": "CSS"
+                  },
+                  {
+                    "name": "JavaScript"
+                  },
+                  {
+                    "name": "Wordpress"
+                  }
                 ],
                 "is_interactive": false,
                 "name": "Similar Studios Africa",
@@ -139,11 +189,21 @@
           "projects_list": [
             {
               "tags": [
-                  { "name": "Re-Design" },
-                  { "name": "UI" },
-                  { "name": "CSS" },
-                  { "name": "JavaScript" },
-                  { "name": "Wordpress" }
+                {
+                  "name": "Re-Design"
+                },
+                {
+                  "name": "UI"
+                },
+                {
+                  "name": "CSS"
+                },
+                {
+                  "name": "JavaScript"
+                },
+                {
+                  "name": "Wordpress"
+                }
               ],
               "is_interactive": false,
               "name": "Bricolage Human Capital",
@@ -155,16 +215,26 @@
                 "height": 1600,
                 "_type": "sanity.imageDimensions"
               },
-              "slug": "bricolage-human-capital",
+              "slug": "bhc",
               "link": "https://bricolagehumancapital.co.ke"
             },
             {
               "tags": [
-                  { "name": "Design" },
-                  { "name": "UI" },
-                  { "name": "Next.js" },
-                  { "name": "TailwindCSS" },
-                  { "name": "Framer Motion" }
+                {
+                  "name": "Design"
+                },
+                {
+                  "name": "UI"
+                },
+                {
+                  "name": "Next.js"
+                },
+                {
+                  "name": "TailwindCSS"
+                },
+                {
+                  "name": "Framer Motion"
+                }
               ],
               "is_interactive": false,
               "name": "Websurfer",
@@ -181,11 +251,21 @@
             },
             {
               "tags": [
-                { "name": "Design" },
-                { "name": "UI" },
-                { "name": "API" },
-                { "name": "Next.js" },
-                { "name": "MongoDB" }
+                {
+                  "name": "Design"
+                },
+                {
+                  "name": "UI"
+                },
+                {
+                  "name": "API"
+                },
+                {
+                  "name": "Next.js"
+                },
+                {
+                  "name": "MongoDB"
+                }
               ],
               "is_interactive": false,
               "name": "Chartske",
@@ -202,11 +282,21 @@
             },
             {
               "tags": [
-                { "name": "UI" },
-                { "name": "HTML" },
-                { "name": "CSS" },
-                { "name": "JavaScript" },
-                { "name": "Wordpress" }
+                {
+                  "name": "UI"
+                },
+                {
+                  "name": "HTML"
+                },
+                {
+                  "name": "CSS"
+                },
+                {
+                  "name": "JavaScript"
+                },
+                {
+                  "name": "Wordpress"
+                }
               ],
               "is_interactive": false,
               "name": "Loyar",
@@ -223,11 +313,21 @@
             },
             {
               "tags": [
-                { "name": "UI" },
-                { "name": "HTML" },
-                { "name": "CSS" },
-                { "name": "JavaScript" },
-                { "name": "Wordpress" }
+                {
+                  "name": "UI"
+                },
+                {
+                  "name": "HTML"
+                },
+                {
+                  "name": "CSS"
+                },
+                {
+                  "name": "JavaScript"
+                },
+                {
+                  "name": "Wordpress"
+                }
               ],
               "is_interactive": false,
               "name": "Similar Studios Africa",
@@ -254,7 +354,9 @@
   "isFallback": false,
   "gsp": true,
   "locale": "en",
-  "locales": ["en"],
+  "locales": [
+    "en"
+  ],
   "defaultLocale": "en",
   "scriptLoader": []
 }
