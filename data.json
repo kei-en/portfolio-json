@@ -1,23 +1,20 @@
 {
   "projects": [
     {
-      "project": "bricolage-human-capital",
+      "project": "bhc",
       "data": {
         "tags": [
           {
-            "name": "Re-Design"
-          },
-          {
-            "name": "UI"
-          },
-          {
-            "name": "CSS"
-          },
-          {
-            "name": "Javascript"
-          },
-          {
             "name": "Wordpress"
+          },
+          {
+            "name": "UI/UX Design"
+          },
+          {
+            "name": "Client Collaboration"
+          },
+          {
+            "name": "Image Sourcing"
           }
         ],
         "isFallback": false,
@@ -164,13 +161,13 @@
       "data": {
         "tags": [
           {
-            "name": "Design"
+            "name": "UI/UX Design"
           },
           {
-            "name": "UI"
+            "name": "Web Scraping"
           },
           {
-            "name": "API"
+            "name": "API Integration"
           },
           {
             "name": "Next.js"
@@ -186,322 +183,161 @@
           "background": {
             "alpha": 1,
             "_type": "color",
-            "hex": "#C8D5D5",
-            "hsv": {
-              "a": 1,
-              "s": 0.018181818181818243,
-              "v": 0.43137254901960786,
-              "_type": "hsvaColor",
-              "h": 210.00000000000023
-            },
-            "rgb": {
-              "g": 109,
-              "_type": "rgbaColor",
-              "a": 1,
-              "b": 110,
-              "r": 108
-            },
-            "hsl": {
-              "a": 1,
-              "s": 0.009174311926605536,
-              "_type": "hslaColor",
-              "h": 210.00000000000023,
-              "l": 0.4274509803921569
-            }
+            "hex": "#C8D5D5"
           },
           "text": {
-            "rgb": {
-              "a": 1,
-              "b": 255,
-              "r": 255,
-              "g": 255,
-              "_type": "rgbaColor"
-            },
-            "hsl": {
-              "a": 1,
-              "s": 0,
-              "_type": "hslaColor",
-              "h": 200,
-              "l": 1
-            },
             "alpha": 1,
             "_type": "color",
-            "hex": "#000000",
-            "hsv": {
-              "a": 1,
-              "s": 0,
-              "v": 1,
-              "_type": "hsvaColor",
-              "h": 200
-            }
+            "hex": "#000000"
           }
         },
-        "meta_description": "A project aimed at creating a ranking of music by Kenyan artists based on popularity by leveraging on data from streaming platforms.",
+        "meta_description": "A project aimed at creating a ranking of Kenyan music based on popularity by leveraging data from streaming platforms.",
         "meta_image": "/media/chartske/kecharts-hero.webp",
         "meta_title": "Chartske",
         "title": "Chartske",
-        "intro": "An effort to rank music in Kenya using data from streaming platforms like Spotify and YouTube. Inspired by sites like Billboard 100, it is tailored specifically to Kenyan music, filling a gap in the industry where no similar ranking platform currently exists.",
+        "intro": "A Billboard Hot 100-style ranking platform, but for Kenyan music, built to give local artists visibility and expose listeners to Kenyan music they might not otherwise discover. Charts are split by genre.",
         "slug": "chartske",
         "content": [
           {
-            "image_dimensions": {
-              "_type": "sanity.imageDimensions",
-              "width": 150,
-              "aspectRatio": 1.3333333333333333,
-              "height": 150
-            },
-            "_type": "project_image_text",
-            "copy_heading": "Logo",
-            "link_internal": null,
-            "cta_text": null,
-            "image": "/media/chartske/chartske-logo.svg",
-            "include_cta": "none",
-            "copy": "The logo features the 'Macondo Swash Caps' font paired with a dancing figure icon, creating the appearance of dancing letters. A 'KE' superscript, representing Kenya, is also included to complete the design.",
-            "link_external": null,
-            "link_internal_type": null,
-            "image_alt": "chartske logo",
-            "caption_position": null,
-            "caption": null,
-            "image_is_decorative": true,
-            "include_caption": false,
-            "link_file": null,
-            "copy_position": "left"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Landing Page",
-            "copy": "The main page consists a brief description of the platform, followed by the main chart consisting of kenyan songs from different genres and right below it an explore charts with links to other charts based on genre.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/chartske/chartske-home-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/chartske/chartske-home-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/chartske/chartske-home-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Chartske main page.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "Main charts",
-            "copy": null,
-            "_type": "project_image",
-            "image_size": "full",
-            "devices": {
-              "desktop": {
+            "_type": "project_process_work",
+            "items": [
+              {
+                "copy": "Integrated the YouTube Music and Spotify APIs to pull streaming data, then designed a homogenized scoring system to make numbers from the two platforms comparable and rank tracks on a single combined chart.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
                 "image": "/media/chartske/chartske-main-2-desktop.webp",
-                "width": 1024,
-                "height": 968
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
               },
-              "tablet": {
-                "image": "/media/chartske/chartske-main-2-tab.webp",
-                "width": 810,
-                "height": 980
+              {
+                "copy": "Built a custom scraper to pull Spotify stream counts, since that data isn't exposed through Spotify's public API",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
+                "image": "/media/chartske/chartske-logo.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
               },
-              "mobile": {
-                "image": "/media/chartske/chartske-main-2-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Chartske landing page - main chart and explore charts sections",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Charts",
-            "copy": "You can browse the different music rankings broken down by genre on a dedicated charts page.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
+              {
+                "copy": "Sourced and curated the underlying catalog of Kenyan music by researching playlists and artists across both platforms, then built a database of artists and tracks to power the platform.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
                 "image": "/media/chartske/chartske-explore-desktop.webp",
-                "width": 1024,
-                "height": 568
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
               },
-              "tablet": {
-                "image": "/media/chartske/chartske-explore-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/chartske/chartske-explore-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Charts page and Kenyan drill chart list.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Search",
-            "copy": "The platform also features a search function that integrates with Spotify and YouTube APIs, allowing users to search for music directly. The search results include details such as an artist's subscriber or follower count and the number of views or plays a song has received.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
+              {
+                "copy": "Built a search feature covering artists, tracks, and albums across both platforms — surfacing details like follower counts, full discographies, and top tracks for artists, and streaming numbers for individual songs/albums.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
                 "image": "/media/chartske/chartske-search-yt-desktop.webp",
-                "width": 2722,
-                "height": 1634
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
               },
-              "tablet": {
-                "image": "/media/chartske/chartske-search-yt-tab.webp",
-                "width": 1544,
-                "height": 1285
-              },
-              "mobile": {
-                "image": "/media/chartske/chartske-search-yt-mobile.webp",
-                "width": 1056,
-                "height": 958
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Chartske search interface",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "full",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
+              {
+                "copy": "Designed the brand identity, including the logo and overall visual design language, to create a cohesive and visually appealing platform that reflects the Kenyan music scene.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
+                "image": "/media/chartske/chartske-home-desktop.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
+              }
+            ]
           },
           {
-            "include_copy": false,
-            "copy_position": "above",
-            "copy_heading": "Spotify",
+            "_type": "project_text",
+            "copy": "A working charts-and-discovery platform for Kenyan music, combining genre-specific rankings with a cross-platform search tool, built entirely independently, end to end, from data pipeline to UI.",
+            "cta_text": null,
+            "heading": "Outcome",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_text",
             "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/chartske/chartske-search-spoti-desktop.webp",
-                "width": 3106,
-                "height": 1354
-              },
-              "tablet": {
-                "image": "/media/chartske/chartske-search-spoti-tab.webp",
-                "width": 1637,
-                "height": 1173
-              },
-              "mobile": {
-                "image": "/media/chartske/chartske-search-spoti-mobile.webp",
-                "width": 1025,
-                "height": 952
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Chartske search interface",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "full",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "copy": "Website",
-            "image_is_decorative": true,
-            "image_alt": null,
-            "link_external": "https://kecharts.vercel.app",
-            "copy_position": "below",
-            "_type": "project_image",
-            "link_internal": null,
-            "link_internal_type": null,
-            "devices": {
-              "desktop": {
-                "image": null
-              },
-              "tablet": {
-                "image": null
-              },
-              "mobile": {
-                "image": null
-              },
-              "image": null
-            },
-            "image": null,
-            "copy_heading": "View Project",
+            "cta_text": "Visit the site",
+            "heading": "Website",
             "include_cta": "external",
+            "link_external": "https://kecharts.vercel.app",
             "link_file": null,
-            "image_size": "small",
-            "include_caption": false,
-            "include_copy": true,
-            "cta_text": "website",
-            "caption": null,
-            "image_dimensions": {
-              "_type": "sanity.imageDimensions",
-              "width": 2400,
-              "aspectRatio": 1.5,
-              "height": 1600
-            }
+            "link_internal": null,
+            "link_internal_type": null
           }
         ]
       }
     },
     {
-      "project": "muimbaji",
+      "project": "websurfer",
       "data": {
         "tags": [
           {
-            "name": "Design"
+            "name": "Secure iframe"
           },
           {
-            "name": "UI"
+            "name": "UI/UX Design"
           },
           {
-            "name": "UX"
+            "name": "Branding"
           },
           {
-            "name": "React.js"
+            "name": "Next.js"
           }
         ],
         "isFallback": false,
@@ -511,452 +347,137 @@
           "background": {
             "alpha": 1,
             "_type": "color",
-            "hex": "#3a3122",
-            "name": "bg-red-500",
-            "hsv": {
-              "a": 1,
-              "s": 0.018181818181818243,
-              "v": 0.43137254901960786,
-              "_type": "hsvaColor",
-              "h": 210.00000000000023
-            },
-            "rgb": {
-              "g": 109,
-              "_type": "rgbaColor",
-              "a": 1,
-              "b": 110,
-              "r": 108
-            },
-            "hsl": {
-              "a": 1,
-              "s": 0.009174311926605536,
-              "_type": "hslaColor",
-              "h": 210.00000000000023,
-              "l": 0.4274509803921569
-            }
+            "hex": "#020617"
           },
           "text": {
-            "rgb": {
-              "a": 1,
-              "b": 255,
-              "r": 255,
-              "g": 255,
-              "_type": "rgbaColor"
-            },
-            "hsl": {
-              "a": 1,
-              "s": 0,
-              "_type": "hslaColor",
-              "h": 200,
-              "l": 1
-            },
             "alpha": 1,
             "_type": "color",
-            "hex": "#ffffff",
-            "hsv": {
-              "a": 1,
-              "s": 0,
-              "v": 1,
-              "_type": "hsvaColor",
-              "h": 200
-            }
+            "hex": "#ffffff"
           }
         },
-        "meta_description": "A project aimed at making an artist showcase website, making it a onestop shop for anything related to the artist",
-        "meta_image": "/muimbaji-hero-image.webp",
-        "meta_title": "Muimbaji",
-        "title": "Muimbaji",
-        "intro": "The goal of this project was to create a comprehensive website for an artist showcase. The site serves as the primary resource for all information about the artist, featuring integrated audio and video players, as well as an online store where fans can purchase products. It centralizes all relevant information about the artist in one convenient location.",
-        "slug": "muimbaji",
+        "meta_description": "A working discovery platform with categorized browsing, random site serving, and a community submission pipeline.",
+        "meta_image": "/websurfer-hero.webp",
+        "meta_title": "Websurfer",
+        "title": "Websurfer",
+        "intro": null,
+        "slug": "websurfer",
         "content": [
           {
-            "include_copy": false,
-            "copy_position": null,
-            "copy_heading": "Logo",
-            "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": null
-              },
-              "tablet": {
-                "image": null
-              },
-              "mobile": {
-                "image": null
-              },
-              "image": "/media/muimbaji-logo.png",
-              "width": 150,
-              "height": 150
-            },
-            "image_alt": null,
-            "include_caption": true,
-            "caption": "The logo. It comes from the working name \"Fishbowl\", before switching to muimbaji as it fit more with the final outcome.",
-            "image_is_decorative": true,
-            "image_size": "small",
+            "_type": "project_text",
+            "copy": "Sparked by personally rediscovering forgotten bookmarked sites, the project reframes browsing as discovery — a platform for surfacing weird, quirky, and genuinely interesting corners of the internet that don't surface through mainstream algorithms. Positioned as an alternative to algorithm-driven doomscrolling.",
+            "cta_text": null,
+            "heading": "The Idea",
             "include_cta": "none",
+            "link_external": null,
             "link_file": null,
-            "link_internal_type": null,
-            "cta_text": null,
             "link_internal": null,
-            "link_external": null
+            "link_internal_type": null
           },
           {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Intro",
+            "_type": "project_text",
+            "copy": "Sites are embedded directly on the platform where possible (external links open in a new tab where embedding isn't feasible), organized into categories, and served randomly. Users click through with a 'next' button and can switch categories anytime. A submission form lets users contribute sites they've found, which are vetted against clear inclusion guidelines before going live.",
+            "cta_text": null,
+            "heading": "How it works",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_process_work",
+            "items": [
+              {
+                "copy": "Built a secure method for embedding third-party websites into the platform.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
+                "image": "/media/bhc/bhc-header.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
+              },
+              {
+                "copy": "Designed the platform end-to-end, including the name, logo, and visual design.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
+                "image": "/media/bhc/bhc-coaching-mentoring.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
+              },
+              {
+                "copy": "Built the submission form and vetting workflow, including the guidelines defining what is and isn't eligible for inclusion.",
+                "link_file": null,
+                "link_internal_type": null,
+                "link_internal": null,
+                "image": "/media/bhc-design.webp",
+                "image_dimensions": {
+                  "_type": "sanity.imageDimensions",
+                  "width": 1600,
+                  "aspectRatio": 1.7777777777777777,
+                  "height": 900
+                },
+                "image_alt": null,
+                "heading": null,
+                "image_is_decorative": true,
+                "include_cta": "none",
+                "cta_text": null,
+                "link_external": null
+              }
+            ]
+          },
+          {
+            "_type": "project_text",
+            "copy": "A working discovery platform with categorized browsing, random site serving, and a community submission pipeline, giving users a way to stumble onto genuinely novel content instead of algorithmically-recycled feeds.",
+            "cta_text": null,
+            "heading": "Outcome",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_text",
+            "copy": "Secure iframe/embedding implementation, platform design & branding, form handling & content moderation workflow, UX design",
+            "cta_text": null,
+            "heading": "Tech/Skills",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_text",
             "copy": null,
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/homepage-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/homepage-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/homepage-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji intro page with the menu open.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Intro",
-            "copy": "The introduction page is divided into four sections that introduce the artist and showcase their most recent music video, forthcoming events, and releases.",
-            "_type": "project_image",
-            "image_size": "full",
-            "devices": {
-              "desktop": {
-                "image": null
-              },
-              "tablet": {
-                "image": null
-              },
-              "mobile": {
-                "image": null
-              },
-              "image": "/media/hompage-desktop-2.webp",
-              "width": 2400,
-              "height": 1600
-            },
-            "image_alt": "Screenshot of Muimbaji intro page - about, upcoming events, and latest releases sections.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Music",
-            "copy": "The artist's discography is broken down into tracks and albums on the music page.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/musicpage-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/musicpage-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/musicpage-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji intro page with the menu open.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Music player",
-            "copy": "The custom audio player located on the same page allows you to play the tracks on the music page.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/controlbar-desktop.webp",
-                "width": 1080,
-                "height": 200
-              },
-              "tablet": {
-                "image": "/media/controlbar-tab.webp",
-                "width": 810,
-                "height": 200
-              },
-              "mobile": {
-                "image": "/media/controlbar-mobile.webp",
-                "width": 375,
-                "height": 150
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji audio player interface.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "full",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Media",
-            "copy": "The media page is separated into videos and images sections featuring music videos and photos of the artist.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/videopage-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/videopage-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/videopage-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji media page, videos section.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": false,
-            "copy_position": "none",
-            "copy_heading": "Media",
-            "copy": "The media page is separated into videos and images sections featuring music videos by the artist and photos of them.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/imagepage-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/imagepage-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/imagepage-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji media page, images section.",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Shop",
-            "copy": "The shop page directs visitors to an ecommerce site where the artist's products can be purchased.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/shoppage-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/shoppage-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/shoppage-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji shop page",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "include_copy": true,
-            "copy_position": "above",
-            "copy_heading": "Payment processing",
-            "copy": "Stripe serves as the payment processing gateway. The shop itself is created with Next.js and Strapi, and is linked to PostgreSQL for data storage and Auth0 for user authentication and management.",
-            "_type": "project_image",
-            "devices": {
-              "desktop": {
-                "image": "/media/payment-desktop.webp",
-                "width": 1024,
-                "height": 568
-              },
-              "tablet": {
-                "image": "/media/payment-tab.webp",
-                "width": 810,
-                "height": 980
-              },
-              "mobile": {
-                "image": "/media/payment-mobile.webp",
-                "width": 375,
-                "height": 612
-              },
-              "image": null
-            },
-            "image_alt": "Screenshot of Muimbaji shop page",
-            "include_caption": false,
-            "caption": null,
-            "image_is_decorative": false,
-            "image_size": "large",
-            "link_file": null,
-            "link_internal": null,
-            "cta_text": null,
-            "link_internal_type": null,
-            "link_external": null,
-            "include_cta": "none"
-          },
-          {
-            "copy": "Github",
-            "image_is_decorative": true,
-            "image_alt": null,
-            "link_external": "https://github.com/kei-en/muimbaji",
-            "copy_position": "below",
-            "_type": "project_image",
-            "link_internal": null,
-            "link_internal_type": null,
-            "devices": {
-              "desktop": {
-                "image": null
-              },
-              "tablet": {
-                "image": null
-              },
-              "mobile": {
-                "image": null
-              },
-              "image": null
-            },
-            "copy_heading": "View Project",
+            "cta_text": "Visit link",
+            "heading": "Website",
             "include_cta": "external",
+            "link_external": "https://websurfer.vercel.app",
             "link_file": null,
-            "image_size": "small",
-            "include_caption": false,
-            "include_copy": true,
-            "cta_text": "production",
-            "caption": null,
-            "image_dimensions": {
-              "_type": "sanity.imageDimensions",
-              "width": 2400,
-              "aspectRatio": 1.5,
-              "height": 1600
-            }
-          },
-          {
-            "copy": "Website",
-            "image_is_decorative": true,
-            "image_alt": null,
-            "link_external": "https://muimbaji.vercel.app",
-            "copy_position": "below",
-            "_type": "project_image",
             "link_internal": null,
-            "link_internal_type": null,
-            "devices": {
-              "desktop": {
-                "image": null
-              },
-              "tablet": {
-                "image": null
-              },
-              "mobile": {
-                "image": null
-              },
-              "image": null
-            },
-            "image": null,
-            "copy_heading": null,
-            "include_cta": "external",
-            "link_file": null,
-            "image_size": "small",
-            "include_caption": false,
-            "include_copy": true,
-            "cta_text": "production",
-            "caption": null,
-            "image_dimensions": {
-              "_type": "sanity.imageDimensions",
-              "width": 2400,
-              "aspectRatio": 1.5,
-              "height": 1600
-            }
+            "link_internal_type": null
           }
         ]
       }
