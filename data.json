@@ -70,7 +70,7 @@
                 "link_external": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc/bhc-header.webp",
+                "image": "/media/bhc-pages-showcase-1.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -88,7 +88,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc/bhc-coaching-mentoring.webp",
+                "image": "/media/bhc-pages-showcase-2.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -107,7 +107,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc-design.webp",
+                "image": "/media/bhc-pages-showcase-3.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -126,7 +126,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc/bhc-contact.webp",
+                "image": "/media/bhc-pages-showcase-4.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -134,7 +134,7 @@
                   "height": 900
                 },
                 "image_alt": null,
-                "heading": "Content Integration",
+                "heading": null,
                 "image_is_decorative": true,
                 "include_cta": "none",
                 "cta_text": null,
@@ -206,7 +206,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/chartske/chartske-main-2-desktop.webp",
+                "image": "/media/chartske-pages-showcase-2.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -225,7 +225,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/chartske/chartske-logo.webp",
+                "image": null,
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -244,7 +244,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/chartske/chartske-explore-desktop.webp",
+                "image": "/media/chartske-pages-showcase-1.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -263,7 +263,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/chartske/chartske-search-yt-desktop.webp",
+                "image": "/media/chartske-pages-showcase-3.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -282,7 +282,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/chartske/chartske-home-desktop.webp",
+                "image": "/media/chartske-pages-showcase-4.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -359,20 +359,9 @@
         "meta_image": "/websurfer-hero.webp",
         "meta_title": "Websurfer",
         "title": "Websurfer",
-        "intro": null,
+        "intro": "Sparked by personally rediscovering forgotten bookmarked sites, the project reframes browsing as discovery, a platform for surfacing weird, quirky, and genuinely interesting corners of the internet that don't surface through mainstream algorithms. Positioned as an alternative to algorithm-driven doomscrolling.",
         "slug": "websurfer",
         "content": [
-          {
-            "_type": "project_text",
-            "copy": "Sparked by personally rediscovering forgotten bookmarked sites, the project reframes browsing as discovery — a platform for surfacing weird, quirky, and genuinely interesting corners of the internet that don't surface through mainstream algorithms. Positioned as an alternative to algorithm-driven doomscrolling.",
-            "cta_text": null,
-            "heading": "The Idea",
-            "include_cta": "none",
-            "link_external": null,
-            "link_file": null,
-            "link_internal": null,
-            "link_internal_type": null
-          },
           {
             "_type": "project_text",
             "copy": "Sites are embedded directly on the platform where possible (external links open in a new tab where embedding isn't feasible), organized into categories, and served randomly. Users click through with a 'next' button and can switch categories anytime. A submission form lets users contribute sites they've found, which are vetted against clear inclusion guidelines before going live.",
@@ -392,7 +381,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc/bhc-header.webp",
+                "image": "/media/websurfer-pages-showcase-4.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -411,7 +400,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc/bhc-coaching-mentoring.webp",
+                "image": "/media/websurfer-pages-showcase-1.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -430,7 +419,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": "/media/bhc-design.webp",
+                "image": "/media/websurfer-pages-showcase-3.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
