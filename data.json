@@ -152,6 +152,17 @@
             "link_file": null,
             "link_internal": null,
             "link_internal_type": null
+          },
+          {
+            "_type": "project_text",
+            "copy": "WordPress, custom graphics/image sourcing, UX structuring, client collaboration",
+            "cta_text": null,
+            "heading": "Tech/Skills",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
           }
         ]
       }
@@ -225,7 +236,7 @@
                 "link_file": null,
                 "link_internal_type": null,
                 "link_internal": null,
-                "image": null,
+                "image": "media/chartske-pages-showcase-4.png",
                 "image_dimensions": {
                   "_type": "sanity.imageDimensions",
                   "width": 1600,
@@ -303,6 +314,17 @@
             "copy": "A working charts-and-discovery platform for Kenyan music, combining genre-specific rankings with a cross-platform search tool, built entirely independently, end to end, from data pipeline to UI.",
             "cta_text": null,
             "heading": "Outcome",
+            "include_cta": "none",
+            "link_external": null,
+            "link_file": null,
+            "link_internal": null,
+            "link_internal_type": null
+          },
+          {
+            "_type": "project_text",
+            "copy": "API integration (Spotify, YouTube), web scraping, data normalization, ranking/sorting logic, UI/UX design, branding",
+            "cta_text": null,
+            "heading": "Tech/Skills",
             "include_cta": "none",
             "link_external": null,
             "link_file": null,
